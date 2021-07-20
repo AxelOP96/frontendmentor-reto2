@@ -17,7 +17,6 @@ h1 {
 .attribution { 
     font-size: 11px; 
     text-align: center; 
-    display: none;
 }
     .attribution a { color: hsl(228, 45%, 44%); }
 
@@ -28,3 +27,6 @@ h1 {
 .darken {
     color:hsl(240, 6%, 50%);
 }
+
+<!--Media queries-->
+@media 
